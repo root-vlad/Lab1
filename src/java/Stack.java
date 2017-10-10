@@ -3,7 +3,7 @@ package java;
 /**
  * Created by vgorokhov on 06.10.2017.
  */
-public class Stack {
+public class Stack extends Item{
     private Integer count;
     private Integer maxCount;
 
